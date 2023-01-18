@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.1",
+    "@googleapis/forms": "^2.0.0",
+    "chartjs-adapter-moment": "^1.0.0",
+    "chartjs-plugin-annotation": "^2.1.0",
+    "fs": "^0.0.1-security",
+    "googleapis": "^110.0.0",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.2.8",
+    "node-localstorage": "^2.2.1",
+    "progressbar.js": "^1.1.0"
+  }
+}

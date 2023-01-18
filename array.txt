@@ -1,0 +1,150 @@
+{"event":"Plugin Installed","eventType":"System","timestamp":"Thu Sep 15 2022 11:12:18 GMT-0400 (Eastern Daylight Time)","url":"/"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 11:12:27 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/home"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 11:12:27 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/home"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 11:13:30 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/introduction?authuser=0"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 11:13:30 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/introduction?authuser=0"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 11:14:21 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/dna-subway?authuser=0"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 11:14:21 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/dna-subway?authuser=0"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 11:14:43 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 11:14:44 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 11:15:06 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/#"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 11:15:06 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/#"}
+{"event":"memberEnter","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 11:15:25 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/#"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 11:15:27 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 11:15:27 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"Green Line","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 11:15:29 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 11:15:30 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 11:15:30 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"se-radio-btn","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 11:15:41 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"Homo sapiens - Ensembl 78 GRCh38","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 11:15:53 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"Homo sapiens - Ensembl 78 GRCh38","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 11:15:54 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"Homo sapiens - Ensembl 78 GRCh38","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 11:15:54 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"Homo sapiens - Ensembl 78 GRCh38","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 11:15:54 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"name","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 11:16:03 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"name","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 11:16:15 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"description","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 11:16:19 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"step_one_btn","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 11:16:27 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 11:16:28 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8876"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 11:16:28 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8876"}
+{"event":"misclick","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 11:16:40 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8876"}
+{"event":"Manage data","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 11:17:10 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8876"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 11:19:27 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/u/1/d/e/1FAIpQLSddCGvt7FriT0z3PhiLvi43-Vi9yBfla1Yi6ABQeJK68zdmsw/viewform?usp=send_form"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 11:20:45 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/u/1/d/e/1FAIpQLSddCGvt7FriT0z3PhiLvi43-Vi9yBfla1Yi6ABQeJK68zdmsw/formResponse"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 11:25:02 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/d/e/1FAIpQLScrLQ6sPbKsJE_XWPW9KoPm_mzcXixBORRJBDNztE6RLanq-Q/viewform"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 11:26:32 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/u/1/d/e/1FAIpQLScrLQ6sPbKsJE_XWPW9KoPm_mzcXixBORRJBDNztE6RLanq-Q/formResponse"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 13:56:30 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/dna-subway"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 13:56:30 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/dna-subway"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 13:58:15 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/dna-subway#h.tzi4cxju9wyr"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 13:59:30 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/u/1/d/1WUh8XPfXG_hX3yRcXdCbK9UiInvZ-ls7fDCya90hiME/edit?usp=drive_web"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 14:03:04 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/dna-subway#h.rsw1itcrpyc"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 14:03:07 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 14:03:08 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 14:03:13 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/dna-subway#h.kvwrl2ne0r4j"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 14:15:47 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 14:15:47 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 14:15:53 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/home"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 14:15:53 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/home"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 14:16:02 GMT-0400 (Eastern Daylight Time)","url":"https://de.cyverse.org/analyses"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 14:16:03 GMT-0400 (Eastern Daylight Time)","url":"https://de.cyverse.org/analyses"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 18:03:40 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/dna-subway"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 18:03:41 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/dna-subway"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 18:06:04 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/dna-subway#h.t7voxc1bmxlm"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 18:06:30 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/u/1/d/e/1FAIpQLScUzQHQOFezUmID7lwJDgGhxgjtnjHBFNfMjCU_7aWoEFXU6A/viewform?usp=send_form"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 18:07:03 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/u/1/d/e/1FAIpQLScUzQHQOFezUmID7lwJDgGhxgjtnjHBFNfMjCU_7aWoEFXU6A/formResponse"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 18:07:56 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 18:07:56 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"memberEnter","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 18:09:11 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 18:09:13 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 18:09:13 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"Green Line","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 18:09:15 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 18:09:15 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 18:09:16 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"se-radio-btn","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 18:09:20 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"Homo sapiens - Ensembl 78 GRCh38","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 18:09:27 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"name","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 18:09:28 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"misclick","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 18:09:30 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"My Projects","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 18:09:32 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 18:09:32 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 18:09:32 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"lfy55-test12","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 18:09:36 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 18:09:37 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8876"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 18:09:37 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8876"}
+{"event":"Green Line","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 18:13:17 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8876"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 18:13:17 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 18:13:17 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"se-radio-btn","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 18:13:28 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"Homo sapiens - Ensembl 78 GRCh38","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 18:13:34 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"name","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 18:13:35 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"description","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 18:13:41 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"step_one_btn","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 18:13:48 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 18:13:48 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8877"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 18:13:48 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8877"}
+{"event":"Manage data","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 18:14:02 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8877"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 18:15:39 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/d/e/1FAIpQLScUzQHQOFezUmID7lwJDgGhxgjtnjHBFNfMjCU_7aWoEFXU6A/viewform"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 18:16:25 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/u/1/d/e/1FAIpQLScUzQHQOFezUmID7lwJDgGhxgjtnjHBFNfMjCU_7aWoEFXU6A/formResponse"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 18:17:52 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/d/e/1FAIpQLScUzQHQOFezUmID7lwJDgGhxgjtnjHBFNfMjCU_7aWoEFXU6A/viewform"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 18:38:56 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/dna-subway"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 18:38:57 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/dna-subway"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 18:43:07 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/d/e/1FAIpQLSddCGvt7FriT0z3PhiLvi43-Vi9yBfla1Yi6ABQeJK68zdmsw/viewform"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 23:04:34 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/dna-subway#h.m6hyy58lkwje"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 23:07:37 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/dna-subway#h.t7voxc1bmxlm"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:07:45 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/d/e/1FAIpQLScUzQHQOFezUmID7lwJDgGhxgjtnjHBFNfMjCU_7aWoEFXU6A/viewform"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:08:33 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/u/1/d/e/1FAIpQLSeHeBZ_LH7kzg9yW_DzKur4yqWF9gdO0LWm3KCCU2u6WypzEQ/viewform?usp=send_form"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:08:59 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/u/1/d/e/1FAIpQLSeHeBZ_LH7kzg9yW_DzKur4yqWF9gdO0LWm3KCCU2u6WypzEQ/formResponse"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:14:00 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/d/e/1FAIpQLSfXUX5Jr2moJDv7O7eQYjRjoyrk5NsbHFXEXYFfWoTMcXF99A/viewform"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:14:35 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/u/1/d/e/1FAIpQLSfXUX5Jr2moJDv7O7eQYjRjoyrk5NsbHFXEXYFfWoTMcXF99A/formResponse"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:36:46 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/d/e/1FAIpQLScQaX9ukw_eyaA7aMD6Pl_4q_KJ1r-ARxPN5uXM_bsvB95n1w/viewform"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:36:57 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/u/1/d/e/1FAIpQLScQaX9ukw_eyaA7aMD6Pl_4q_KJ1r-ARxPN5uXM_bsvB95n1w/formResponse"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:37:34 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 23:37:34 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"memberEnter","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 23:37:38 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 23:37:39 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:37:39 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"lfy55-test1","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 23:37:42 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 23:37:43 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8877"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:37:43 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8877"}
+{"event":"FastX Toolkit","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 23:37:44 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8877"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:39:35 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/u/1/d/1WUh8XPfXG_hX3yRcXdCbK9UiInvZ-ls7fDCya90hiME/edit?usp=drive_web"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:54:20 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/d/e/1FAIpQLScQaX9ukw_eyaA7aMD6Pl_4q_KJ1r-ARxPN5uXM_bsvB95n1w/viewform"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:54:42 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/d/e/1FAIpQLSc8qQblV-rqShUmf8zIaZDNoJlid2lG2VrlM0oH-Kz5Sb3klg/viewform"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:54:54 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/u/1/d/e/1FAIpQLSc8qQblV-rqShUmf8zIaZDNoJlid2lG2VrlM0oH-Kz5Sb3klg/formResponse"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:55:01 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/u/1/d/e/1FAIpQLSfy8nP9pGmEgliCFJG1PjwySgoHKsQNP_IZB0C_hksLi0hOiw/viewform?usp=send_form"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:55:21 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/u/1/d/e/1FAIpQLSfy8nP9pGmEgliCFJG1PjwySgoHKsQNP_IZB0C_hksLi0hOiw/formResponse"}
+{"event":"My Projects","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 23:58:38 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8877"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:58:39 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 23:58:39 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"Home Button","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 23:58:40 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 23:58:40 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:58:41 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"Green Line","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 23:58:42 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 23:58:42 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:58:42 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"Home Button","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 23:58:45 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/create"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 23:58:45 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:58:45 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"misclick","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 23:58:49 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"misclick","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 23:58:53 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"My Projects","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 23:58:55 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 23:58:55 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:58:55 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"misclick","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 23:58:58 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"lfy55-test1","eventType":"Subway Click","timestamp":"Thu Sep 15 2022 23:58:59 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/browsemy"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 15 2022 23:58:59 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8877"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 15 2022 23:58:59 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8877"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Fri Sep 16 2022 00:02:00 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/d/e/1FAIpQLSe4qhVC3vFo6MDiDFUs7xFELH1VEyV4mqdlN-m50DozlkESRw/viewform"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Fri Sep 16 2022 00:02:15 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/u/1/d/e/1FAIpQLSe4qhVC3vFo6MDiDFUs7xFELH1VEyV4mqdlN-m50DozlkESRw/formResponse"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Fri Sep 16 2022 00:02:29 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/d/e/1FAIpQLSdgm5NKev7ZiSL_7DswMQdpTJEzL45LVc6dXt5fUuCYo90NGA/viewform"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Fri Sep 16 2022 00:02:46 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/u/1/d/e/1FAIpQLSdgm5NKev7ZiSL_7DswMQdpTJEzL45LVc6dXt5fUuCYo90NGA/formResponse"}
+{"event":"Kallisto Quantify","eventType":"Subway Click","timestamp":"Fri Sep 16 2022 00:06:57 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8877"}
+{"event":"View Results","eventType":"Subway Click","timestamp":"Fri Sep 16 2022 00:07:06 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8877"}
+{"event":"View Results","eventType":"Subway Click","timestamp":"Fri Sep 16 2022 00:07:09 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8877"}
+{"event":"FastX Toolkit","eventType":"Subway Click","timestamp":"Fri Sep 16 2022 00:07:10 GMT-0400 (Eastern Daylight Time)","url":"https://dnasubway.cyverse.org/project/ngs/panel2/8877"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Fri Sep 16 2022 00:12:31 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/d/e/1FAIpQLSeg72q8HBIiJCBS54pKvlfPXbad7JwxdNKQC5KrC4OWoOka3A/viewform"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Fri Sep 16 2022 00:12:48 GMT-0400 (Eastern Daylight Time)","url":"https://docs.google.com/forms/u/1/d/e/1FAIpQLSeg72q8HBIiJCBS54pKvlfPXbad7JwxdNKQC5KrC4OWoOka3A/formResponse"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 29 2022 15:44:07 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/discovery?authuser=0"}
+{"event":"Page Visited","eventType":"URL","timestamp":"Thu Sep 29 2022 15:44:07 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/discovery?authuser=0"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 29 2022 15:44:21 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/discovery?authuser=0#h.m1cwibfnbg0t"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 29 2022 15:44:24 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/discovery?authuser=0#h.9yfw7vf8nqew"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 29 2022 15:44:28 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/discovery?authuser=0#h.t5xjowet5yxk"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 29 2022 15:44:32 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/discovery?authuser=0#h.f73jse3lt8pd"}
+{"event":"Internal URL Change","eventType":"URL","timestamp":"Thu Sep 29 2022 15:45:00 GMT-0400 (Eastern Daylight Time)","url":"https://sites.google.com/cs.unc.edu/cloud-tutorial/discovery?authuser=0#h.3mcwuvasafws"}

@@ -1,0 +1,12 @@
+DNA Subway in progress: Pre-Quiz: File System
+DNA Subway in progress: Post-Quiz: File System
+DNA Subway in progress: Pre-Quiz: Basic Computation
+DNA Subway in progress: Post-Quiz: Basic Computation
+DNA Subway in progress: Pre-Quiz: Basic Genetics
+DNA Subway in progress: Post-Quiz: Basic Genetics
+DNA Subway in progress: Pre-Quiz: FastX (Trimming + Filtering) Toolkit
+DNA Subway in progress: Post-Quiz: FastX (Trimming + Filtering) Toolkit
+DNA Subway in progress: Pre-Quiz: Kallisto (Alignment) + Sleuth (Differential Analysis)
+DNA Subway in progress: Post-Quiz: Kallisto (Alignment) + Sleuth (Differential Analysis)
+DNA Subway in progress: Pre-Quiz: High-Performance Cloud Computing
+DNA Subway Completed: Post-Quiz: High-Performance Cloud Computing
